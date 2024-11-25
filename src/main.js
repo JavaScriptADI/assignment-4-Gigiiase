@@ -112,6 +112,6 @@ console.log(check);
 console.log(check2);
 
 // Assignment 7
-
+//  ver movaswari da shemdeg gavagrzeleb
 
 
