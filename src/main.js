@@ -13,9 +13,9 @@ console.log(array1);
 // 3 What is the difference between splice and slice?
 // splice ამატებს, შლის და ცვლის ელემენტს არაიდან. 
 let spl = [10, 100, 1000];
-        // index, delete and change
- spl.splice(1, 1, 20);
- console.log(spl);
+// index, delete and change
+spl.splice(1, 1, 20);
+console.log(spl);
 
 //  and slice axal cvladshi gadmoaqvs elementebi ise rom ar sheicvalos dzveli array.
 
@@ -23,8 +23,8 @@ let spl = [10, 100, 1000];
 console.log(spl.length);
 
 // 5 How can you check if an array includes a certain element?
- console.log(spl.includes(2));
- console.log(spl.includes(10));
+console.log(spl.includes(2));
+console.log(spl.includes(10));
 
 //  6 What is the result of calling sort on an array of numbers without a compare function?
 
@@ -33,8 +33,8 @@ number.sort();  // Sorts stringebsi
 console.log(number);
 
 // 7 How do you create a copy of an array?
- let copy = number.slice();
- console.log(copy);
+let copy = number.slice();
+console.log(copy);
 
 //  8 How do you reverse the elements in an array?
 let cop = number.reverse();
@@ -48,9 +48,8 @@ console.log(connect);
 const array2 = [
     [1, 2, 3],
     [4, 5, 6],
-    [7, 8, 9],
-  ];
-  console.log(array2[1][2]); // es gpt dan gadmovitane ver mivxvdi ((((
+    [7, 8, 9],];
+console.log(array2[1][2]); // es gpt dan gadmovitane ver mivxvdi ((((
 
 //   Assignment 1:
 
@@ -58,7 +57,7 @@ let cvladi = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 cvladi.splice(4, 1, 15);
 cvladi.push(11);
 cvladi.shift()
-console.log(cvladi);
+console.log("cvladi");
 
 // Assignment 2:
 
