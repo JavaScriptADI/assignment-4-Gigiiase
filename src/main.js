@@ -56,7 +56,7 @@ console.log(array2[1][2]); // es gpt dan gadmovitane ver mivxvdi ((((
 let cvladi = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 cvladi.splice(4, 1, 15);
 cvladi.push(11);
-cvladi.shift()
+cvladi.shift();
 console.log("cvladi");
 
 // Assignment 2:
